@@ -69,3 +69,26 @@
     </Information>
 
 </Informations>
+<Information>
+
+        <ID>3</ID>
+
+        <Name>Ala Voski</Name>
+
+        <Address>
+
+            <House>38</House>
+
+            <Road>3</Road>
+
+            <Area>Motijheel</Area>
+
+        </Address>
+
+        <Depertment>Human Resource</Depertment>
+
+        <Salary>30000</Salary>
+
+    </Information>
+
+</Informations>
